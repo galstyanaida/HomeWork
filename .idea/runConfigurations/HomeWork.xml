@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="HomeWork" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="chapter3.ArrayOfNums" />
+    <option name="MAIN_CLASS_NAME" value="chapter3.Products" />
     <module name="java_course" />
     <extension name="coverage">
       <pattern>
